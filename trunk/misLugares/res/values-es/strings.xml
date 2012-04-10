@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="acerca_de">Acerca de...</string>
+    <string name="agregar">Agregar</string>
+    <string name="aniadir_posicion_actual">Añadir lugar en la posición actual</string>
+    <string name="app_name">Mis Lugares</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="configuracion">Configuración</string>
+    <string name="control_agregar_lugar">Debe indicar al menos el Nombre y la Descripción del Lugar</string>
+    <string name="control_agregar_lugar_actual_detalles">No puede añadir un nuevo Lugar mientras ve los detalles de otro</string>
+    <string name="control_agregar_lugar_actual_coordenadas">No puede añadir un nuevo Lugar mientras modifica la ubicación de otro</string>
+    <string name="control_eliminar_lugares">No existen Lugares para poder eliminar</string>
+    <string name="detalles">Detalles</string>
+    <string name="editar">Editar</string>
+    <string name="eliminar">Eliminar</string>
+    <string name="error_aniadir_posicion_actual">Imposible determinar la posición actual</string>
+    <string name="gps_activado">GPS Activado</string>
+    <string name="gps_desactivado">GPS Desactivado. Para el correcto funcionamiento actívelo en la configuración de Ubicación</string>
+    <string name="ir_posicion_actual">Ir a la posición actual</string>
+    <string name="key_maps1">0ufFbB49KCKs9JxSWbdq1VwTbbR6oa7Duy_INnw</string> <!-- Depuración casa -->
+    <string name="key_maps2">0ufFbB49KCKtdqiY0UZEtvPL7kkLWgMFSr8kRYg</string> <!-- trabajo -->
+    <string name="key_maps">0ufFbB49KCKsP1cB6dJXferKaYyqgnQULn7rDrw</string> <!-- Depuración buena -->
+    <string name="lista">Lista</string>
+    <string name="lugar">Lugar</string>
+    <string name="mapa">Mapa</string>
+    <string name="msg_agregar_nombre">Nombre del Lugar</string>
+    <string name="msg_agregar_descripcion">Descripción del Lugar</string>
+    <string name="msg_condirmacion_eliminar">¿Está seguro que desea Eliminar este elemento?</string>
+    <string name="msg_condirmacion_eliminar_varios">¿Está seguro que desea Eliminar los elementos seleccionados?</string>
+    <string name="msg_error_salir">Se ha producido un error y la aplicación debe cerrarse. Por favor, contacte con los autores</string>
+    <string name="msg_info_agregar_lugar">Pulse en el lugar del Mapa que desea agregar...</string>
+    <string name="msg_info_editar_coordenadas_lugar">Pulse en el lugar del Mapa donde desea mover el Lugar...</string>
+    <string name="msg_notificacion_no_gps">El dispositivo GPS está desactivado, por lo que su posición no será 100% precisa...</string>
+    <string name="navegar">Navegar</string>
+    <string name="no">No</string>
+    <string name="no_hay_lugares">Aun no existen lugares definidos</string>
+    <string name="nombre_lugares">Lugares</string>
+    <string name="opciones">Opciones</string>
+    <string name="opcion_configuracion">Las opciones de configuración serán añadidas en la siguiente versión</string>
+    <string name="salir">Salir</string>
+    <string name="si">Sí</string>
+    <string name="texto_acerca_de"><b>Curso Android - MisLugares 1.0</b>\n
+\nJesús Corralejo Banda\n
+email: ortadilla@gmail.com\n\n
+Ejercicio final Curso Android</string>
+    <string name="ver_ubicacion">Ver Ubicación</string>
+    <string name="vista_mapa">Vista Mapa</string>
+    <string name="vista_satelite">Vista Satélite</string>
+    <string name="volver">Volver</string>
+</resources>
