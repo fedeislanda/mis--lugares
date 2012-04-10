@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+	<item
+		android:id="@+id/lugarEditar" 
+		android:title="@string/editar"
+		android:icon="@drawable/ic_menu_compose" />
+	<item
+		android:id="@+id/lugarVerUbicacion" 
+		android:title="@string/ver_ubicacion"
+		android:icon="@drawable/ic_menu_mylocation" />
+	<item
+		android:id="@+id/lugarNavegar" 
+		android:title="@string/navegar"
+		android:icon="@drawable/ic_menu_directions" />
+	<item
+		android:id="@+id/lugarEliminar" 
+		android:title="@string/eliminar"
+		android:icon="@drawable/ic_menu_delete" />
+</menu>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="acerca_de">About...</string>
+    <string name="agregar">Add</string>
+    <string name="aniadir_posicion_actual"> Add Place to the current position</string>
+    <string name="app_name">My Places</string>
+    <string name="cancelar">Cancel</string>
+    <string name="configuracion">Settings</string>
+    <string name="control_agregar_lugar"> Please specify at least the name and description of the new Place</string>
+    <string name="control_agregar_lugar_actual_detalles">You can\'t add a new Place while viewing the details of another one</string>
+    <string name="control_agregar_lugar_actual_coordenadas">You can\'t add a new Place while editing the position of another one</string>
+    <string name="control_eliminar_lugares">There are no locations to delete</string>
+    <string name="detalles">Details</string>
+    <string name="editar">Edit</string>
+    <string name="eliminar">Delete</string>
+    <string name="error_aniadir_posicion_actual">Unable to determine the current position</string>
+    <string name="gps_activado">GPS on</string>
+    <string name="gps_desactivado"> GPS is switched off. You can turn it on in Location Settings</string>
+    <string name="ir_posicion_actual">Go to the current location</string>
+    <string name="key_maps1">0ufFbB49KCKs9JxSWbdq1VwTbbR6oa7Duy_INnw</string> <!-- Depuración casa -->
+    <string name="key_maps2">0ufFbB49KCKtdqiY0UZEtvPL7kkLWgMFSr8kRYg</string> <!-- trabajo -->
+    <string name="key_maps">0ufFbB49KCKsP1cB6dJXferKaYyqgnQULn7rDrw</string> <!-- casa -->
+    <string name="lista">List</string>
+    <string name="lugar">Place</string>
+    <string name="mapa">Map</string>
+    <string name="msg_agregar_nombre">Name of the Place</string>
+    <string name="msg_agregar_descripcion">Description of the Place</string>
+    <string name="msg_condirmacion_eliminar"> Are you sure you want to delete this item?</string>
+    <string name="msg_condirmacion_eliminar_varios"> Are you sure you want to delete the seleted items?</string>
+    <string name="msg_error_salir">There was an error and the application needs to shut down. Please contact the authors.</string>
+    <string name="msg_info_agregar_lugar"> Tap on the location on the map that you would like to add...</string>
+    <string name="msg_info_editar_coordenadas_lugar">Tap on the place on the map where you would like to move the location...</string>
+    <string name="msg_notificacion_no_gps">The GPS is switched off, therefore your location reading won\'t be 100% accurate...</string>
+    <string name="navegar">Navigate</string>
+    <string name="no">No</string>
+    <string name="no_hay_lugares">There aren\'t any defined locations yet</string>
+    <string name="nombre_lugares">Places</string>
+    <string name="opciones">Options</string>
+    <string name="opcion_configuracion">Settings will be added in the next version</string>
+    <string name="salir">Quit</string>
+    <string name="si">Yes</string>
+    <string name="texto_acerca_de"><b>Curso Android - MisLugares 1.0</b>\n
+\nJesús Corralejo Banda\n
+email: ortadilla@gmail.com\n\n
+Ejercicio final Curso Android</string>
+    <string name="ver_ubicacion">View Location</string>
+    <string name="vista_mapa">Map View</string>
+    <string name="vista_satelite"> Satellite View</string>
+    <string name="volver">Back</string>
+</resources>

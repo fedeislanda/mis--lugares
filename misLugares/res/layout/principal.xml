@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView 	
+	xmlns:android="http://schemas.android.com/apk/res/android" 
+	android:background="@drawable/fondo_general" 
+	android:layout_height="match_parent" 
+	android:layout_width="match_parent"
+	android:fillViewport="true">
+<LinearLayout
+	xmlns:android="http://schemas.android.com/apk/res/android" 
+	android:orientation="vertical" 
+	android:layout_gravity="top" android:layout_width="match_parent" android:layout_height="match_parent">
+
+	<ImageView android:gravity="center_horizontal" 
+		android:src="@drawable/logo" 
+		android:id="@+id/logo" 
+		android:layout_height="wrap_content" android:layout_width="wrap_content" android:layout_gravity="center_horizontal" android:layout_weight="5"/>
+	
+	<LinearLayout android:id="@+id/opciones"
+		android:layout_width="fill_parent" 
+		android:orientation="horizontal" 
+		android:layout_height="wrap_content" 
+		android:gravity="center_horizontal" android:layout_weight="2">
+			<Button	android:background="@drawable/files" 
+				android:layout_width="wrap_content" 
+				android:layout_height="wrap_content" 
+				android:id="@+id/botonLista">
+			</Button>
+			<Button android:background="@drawable/maps" 
+				android:layout_width="wrap_content" 
+				android:layout_height="wrap_content" 
+				android:id="@+id/botonMapa">
+			</Button>
+	</LinearLayout>
+	
+	<TextView android:text="MisLugares 1.0 - Jesús Corralejo Banda" 
+		android:id="@+id/textPie" 
+		android:textColor="#0101DF" 
+		android:layout_height="wrap_content" 
+		android:layout_width="wrap_content" 
+		android:layout_gravity="center" android:layout_weight="1">
+	</TextView>
+</LinearLayout>
+</ScrollView>

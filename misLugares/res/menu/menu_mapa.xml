@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+	<item
+		android:id="@+id/mapaIrPosicionActual" 
+		android:title="@string/ir_posicion_actual"
+		android:icon="@drawable/ic_menu_mylocation" />
+	<item
+		android:id="@+id/mapaAiniadirPosicionActual" 
+		android:title="@string/aniadir_posicion_actual"
+		android:icon="@drawable/ic_menu_add" />
+	<item
+		android:id="@+id/mapaVistaSatelite" 
+		android:title="@string/vista_satelite"
+		android:icon="@drawable/ic_menu_compass" />
+	<item
+		android:id="@+id/mapaVistaMapa" 
+		android:title="@string/vista_mapa"
+		android:icon="@drawable/ic_menu_mapmode" />
+</menu>

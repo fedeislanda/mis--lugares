@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+	<item
+		android:id="@+id/menuLista" 
+		android:title="@string/lista"
+		android:icon="@drawable/ic_menu_show_list" />
+	<item
+		android:id="@+id/menuMapa" 
+		android:title="@string/mapa"
+		android:icon="@drawable/ic_menu_mapmode" />
+	<item
+		android:id="@+id/menuConfiguracion" 
+		android:title="@string/configuracion"
+		android:icon="@drawable/ic_menu_preferences" />
+	<item
+		android:id="@+id/menuAcercaDe" 
+		android:title="@string/acerca_de"
+		android:icon="@drawable/ic_menu_info_details" />
+	<item
+		android:id="@+id/menuQuit" 
+		android:title="@string/salir"
+		android:icon="@drawable/ic_menu_logout" />
+</menu>

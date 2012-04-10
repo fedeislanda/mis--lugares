@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:orientation="vertical" 
+	android:layout_width="fill_parent"
+	android:layout_height="fill_parent"
+	android:background="@drawable/fondo_nombre_lugar"
+	android:layout_margin="5dip" >
+		<LinearLayout android:id="@+id/layoutNombre" 
+			android:orientation="horizontal" 
+			android:layout_width="fill_parent"
+			android:layout_height="wrap_content"
+			android:gravity="right">
+			<CheckBox android:id="@+id/lugarCheck"
+				android:layout_width="wrap_content" 
+				android:layout_height="fill_parent"
+				android:visibility="invisible"/>
+			<TextView android:id="@+id/lugarNombre"
+				android:layout_width="fill_parent"
+				android:layout_height="match_parent"
+				android:gravity="right" 
+				android:text="-"
+				android:textColor="#0101DF"
+				android:textAppearance="?android:attr/textAppearanceMedium" />
+		</LinearLayout>
+			<TextView android:id="@+id/lugarDescripcion"
+				android:layout_width="fill_parent" 
+				android:layout_height="wrap_content"
+				android:text="-"
+				android:gravity="left"
+				android:textAppearance="?android:attr/textAppearanceSmall"
+				android:textColor="#0101DF" />
+</LinearLayout>

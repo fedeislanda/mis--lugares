@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="fill_parent" android:layout_height="fill_parent"
+	android:autoLink="all" android:text="@string/texto_acerca_de"
+	android:textColor="#0101DF"
+	android:background="@drawable/fondo_nombre_lugar" android:gravity="center" />
